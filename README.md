@@ -2,7 +2,7 @@
 
 ## Beginner Software Engineer
 
-___
+
 ## Languages and Tools:
 
 [![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python)](https://github.com/podrivnick/elec-shop.git)
@@ -11,7 +11,7 @@ ___
 [![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker)](https://github.com/podrivnick/elec-shop.git)
 [![SQL](https://img.shields.io/badge/-SQL-grey?style=for-the-badge&logo=SQL)](https://github.com/podrivnick/elec-shop.git)
 
-___
+
 ### Social Media:
 
 
