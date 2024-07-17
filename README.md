@@ -1,14 +1,12 @@
-[![Header](https://github.com/podrivnick/podrivnick/blob/main/logo/linkedin_banner_image_1.png)](https://github.com/podrivnick?tab=repositories)
+[![Header](https://github.com/podrivnick/podrivnick/blob/main/logo/image.png)](https://github.com/podrivnick?tab=repositories)
 
 ## Beginner Software Engineer
 
 
-## Tools:
+## Languages and Tools:
 
 
-<a href="https://apps.apple.com/developer/aliaksei-shpauda/id1648889980" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/main/logo/logo/linkedin_banner_image_1.png" alt="Python" width="180"/>
-</a>
+[![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)]()
 <a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
   <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/main/logo/logo/linkedin_banner_image_1.png" alt="Django" width="180"/>
 </a>
