@@ -2,24 +2,16 @@
 
 ## Beginner Software Engineer
 
-
+___
 ## Languages and Tools:
 
+[![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python)](https://github.com/podrivnick/elec-shop.git)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript)](https://github.com/podrivnick/elec-shop.git)
+[![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=django)](https://github.com/podrivnick/elec-shop.git)
+[![Docker](https://img.shields.io/badge/-Docker-grey?style=for-the-badge&logo=docker)](https://github.com/podrivnick/elec-shop.git)
+[![SQL](https://img.shields.io/badge/-SQL-grey?style=for-the-badge&logo=SQL)](https://github.com/podrivnick/elec-shop.git)
 
-[![JavaScript](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)]()
-<a href="https://play.google.com/store/apps/dev?id=7235693910501061926" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/main/logo/logo/linkedin_banner_image_1.png" alt="Django" width="180"/>
-</a>
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="SQL" width="180"/>
-</a>
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="JavaScript" width="180"/>
-</a>
-<a href="https://the-unl.com" target="_blank">
-  <img src="https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/the_unlimited.png" alt="Docker" width="180"/>
-</a>
-
+___
 ### Social Media:
 
 
